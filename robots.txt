@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pen-of-justice.github.io/sitemap.xml
